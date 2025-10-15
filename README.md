@@ -14,18 +14,23 @@ Soy estudiante de **Ingeniería en Sistemas de Información** en la **UTN - FRBA
 
 ## 🚀 Proyectos destacados
 
-### 🧩 [TpIntegradorDdS-K3002-G6](https://github.com/JuanMarcosCorbalan/TpIntegradorDdS-K3002-G6)
+### 🧩 [Sistema de Gestion de Heladeras Comunitarias](https://github.com/JuanMarcosCorbalan/TpIntegradorDdS-K3002-G6)
 Proyecto academico basado en ...
 
 ---
 
-### 📦 aca va el de operativos*
-
+### 📦 [Simulacion de un Sistema Operativo](https://github.com/rood8592/tp-ssoo-1c2024)
+Proyecto academico ...
 
 ---
 
-### 🧮 aca va el conaiisi
+### [Videojuego basado en Space War](https://github.com/pdepjm/2023-o-tpi-game-hobbits/tree/master)
+Proyecto academico ...
 
+---
+
+### 🧮 “Hacking Etico en organizaciones: casos y recomendaciones”(https://drive.google.com/file/d/1Z7u7LKcTfNnDgzRiUxtCqxQlKEzUMnmL/view?usp=sharing)
+Proyecto academico ...
 
 ---
 
@@ -39,7 +44,7 @@ Actualmente busco seguir creciendo en el ámbito profesional, participando en pr
 
 ## 📫 Contacto
 
-- 📧 **joaquinbergara@example.com** *(reemplazalo por el tuyo)*  
+- 📧 **joaquin.12.bergara@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/joaquinbergara) *(si tenés)*  
 - 🧠 [GitHub](https://github.com/tuusuario)
 
