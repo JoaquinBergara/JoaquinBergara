@@ -6,9 +6,9 @@ Soy estudiante de **Ingeniería en Sistemas de Información** en la **UTN - FRBA
 
 ## 💻 Tecnologías y conocimientos
 
-- **C:**: Conocimientos avanzados en programación estructurada, desarrollo de algoritmos y optimización de código.
-- **Java**: Nivel intermedio con conocimientos en programación orientada a objetos, desarrollo de aplicaciones de escritorio, fundamentos de desarrollo web y manejo de bases de datos mediante JPA.
-- **SQL**: Nivel intermedio con conocimientos en diseño y modelado de bases de datos relacionales, creación y optimización de consultas complejas (joins, subconsultas, agregaciones), manejo de procedimientos almacenados, funciones y triggers, normalización y optimización de bases de datos. Experiencia con SQL Server y MySQL.
+- **C**: Conocimientos avanzados en programación estructurada, desarrollo de algoritmos y optimización de código.
+- **Java**: Nivel avanzado con conocimientos en programación orientada a objetos, desarrollo de aplicaciones de escritorio, fundamentos de desarrollo web y manejo de bases de datos mediante JPA.
+- **SQL**: Nivel avanzado con conocimientos en diseño y modelado de bases de datos relacionales, creación y optimización de consultas complejas (joins, subconsultas, agregaciones), manejo de procedimientos almacenados, funciones y triggers, normalización y optimización de bases de datos. Experiencia con SQL Server y MySQL.
 - **C++**: Nivel intermedio, con experiencia en programación orientada a objetos, manejo de memoria y uso de bibliotecas estándar.
 - **Paquete Office**: Experiencia en el uso de Microsoft Office (Excel, Word, PowerPoint) y Project para gestión de tareas, cronogramas y seguimiento de proyectos académicos.
 
@@ -17,7 +17,7 @@ Soy estudiante de **Ingeniería en Sistemas de Información** en la **UTN - FRBA
 ## 🚀 Proyectos destacados
 
 ### 🖥  [Sistema de Gestion de Heladeras Comunitarias](https://github.com/JuanMarcosCorbalan/TpIntegradorDdS-K3002-G6)
-Proyecto academico basado en el diseño y desarrollo de un Sistema de Gestion de Heladeras Comunitarias. El mismo se desarrollo en Java, se utilizaron tecnologias como Javalin, Spring Boot y Mustache para todo lo relacionado al backend y servidor. Y para el manejo de la persistencia se utilizar JPA y MySQL. El despliegue de la plataforma se realizó en Amazon Web Services.
+Proyecto academico de diseño y desarrollo de un Sistema de Gestion de Heladeras Comunitarias. El mismo se desarrollo en Java, se utilizaron tecnologias como Javalin, Spring Boot y Mustache para todo lo relacionado al backend y servidor. Y para el manejo de la persistencia se utilizar JPA y MySQL. El despliegue de la plataforma se realizó en Amazon Web Services.
 
 ---
 
@@ -28,7 +28,7 @@ Desarrollado en C, dividido en cuatro módulos principales: CPU, Memoria, Kernel
 ---
 
 ### 👾 [Videojuego basado en Space War](https://github.com/pdepjm/2023-o-tpi-game-hobbits/tree/master)
-Videojuego desarrollado en Wollok, un lenguaje de programacion y entorno de desarrollo orientado en objetos.
+Videojuego desarrollado en Wollok, un lenguaje de programacion y entorno de desarrollo orientado en objetos. Se implementó la lógica de combate espacial entre naves, enemigos y power-ups, incorporando detección de colisiones, física de movimiento, control de eventos y efectos de sonido.
 
 ---
 
