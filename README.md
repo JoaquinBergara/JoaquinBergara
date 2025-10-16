@@ -32,7 +32,7 @@ Videojuego desarrollado en Wollok, un lenguaje de programacion y entorno de desa
 
 ---
 
-### [TP GESTION DE DATOS](https://github.com/LucianoZunino/tp-ggd)
+### 📊 [Sistema de Gestión y Migración de Datos Relacionales](https://github.com/LucianoZunino/tp-ggd)
 Desarrollo de un esquema de base de datos relacional completo, con procedimientos almacenados para crear estructuras, migrar información desde una fuente maestra y automatizar la carga y mantenimiento de datos de forma segura y eficiente.
 
 ---
